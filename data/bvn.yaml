@@ -1,0 +1,15 @@
+path: E:/Download/yolov5-master/dataset
+train: E:/Download/yolov5-master/dataset/train
+val: E:/Download/yolov5-master/dataset/valid
+test: E:/Download/yolov5-master/dataset/test
+#E:\Download\yolov5-master\yolov5-master\dataset
+
+#path: ./dataset
+#train: ../train/images
+#valid: ../valid/images
+#test: ../test/images
+
+
+names:
+  0: enemy
+  1: enemy_head
