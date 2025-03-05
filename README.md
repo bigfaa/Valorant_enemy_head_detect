@@ -1,0 +1,2 @@
+# Valorant_enemy_head_detect
+yolo模型，实现对FPS游戏敌方人物头部身体检测和锁定
